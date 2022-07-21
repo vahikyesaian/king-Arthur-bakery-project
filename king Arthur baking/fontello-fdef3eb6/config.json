@@ -1,0 +1,78 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "221947bea81f49a11b863c686a7bd235",
+      "css": "search-1",
+      "code": 59396,
+      "src": "websymbols"
+    },
+    {
+      "uid": "8ed4884bf9b840729eef8f0bbd2b1dbb",
+      "css": "user-outline",
+      "code": 59394,
+      "src": "typicons"
+    },
+    {
+      "uid": "vqyhv5kmwcj9zxq28dhq5npykr2k39co",
+      "css": "basket-1",
+      "code": 59393,
+      "src": "modernpics"
+    },
+    {
+      "uid": "47bd87a650e95b97f947d275ed968efe",
+      "css": "facebook-squared",
+      "code": 62222,
+      "src": "entypo"
+    },
+    {
+      "uid": "0fbfb1cd7a847c88ea4c141d0e1bbdb5",
+      "css": "instagram",
+      "code": 62253,
+      "src": "entypo"
+    },
+    {
+      "uid": "2e9c0fdd4d59598cb122801ab80222e7",
+      "css": "pinterest-circled",
+      "code": 62227,
+      "src": "entypo"
+    },
+    {
+      "uid": "d090355c31f497b61d676416c1fd39fb",
+      "css": "twitter",
+      "code": 62217,
+      "src": "entypo"
+    },
+    {
+      "uid": "f09340446e327a78969ea1bfac29c1a6",
+      "css": "linkedin",
+      "code": 61532,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "897cd776b90c71cb80b467fd9f509775",
+      "css": "youtube",
+      "code": 62229,
+      "src": "modernpics"
+    },
+    {
+      "uid": "5991fe2bae7bff7747cf9ff1538e53f5",
+      "css": "bed_fill0_wght400_grad0_opsz48",
+      "code": 59392,
+      "src": "custom_icons",
+      "selected": false,
+      "svg": {
+        "path": "M83.3 791.7V526Q83.3 500 93.8 477.1T125 439.6V318.8Q125 271.9 156.8 240.1T235.4 208.3H422.9Q445.8 208.3 465.6 218.8 485.4 229.2 500 246.9 514.6 229.2 533.9 218.8 553.1 208.3 576 208.3H763.5Q810.4 208.3 842.7 240.1 875 271.9 875 318.8V439.6Q895.8 454.2 906.3 477.1T916.7 526V791.7H854.2V708.3H145.8V791.7ZM531.3 421.9H812.5V318.8Q812.5 297.9 798.4 284.4 784.4 270.8 763.5 270.8H572.9Q555.2 270.8 543.2 285.4 531.3 300 531.3 318.7ZM187.5 421.9H468.8V318.8Q468.8 300 456.8 285.4 444.8 270.8 427.1 270.8H235.4Q215.6 270.8 201.6 284.9T187.5 318.8ZM145.8 645.8H854.2V526Q854.2 508.3 842.2 496.4 830.2 484.4 812.5 484.4H187.5Q169.8 484.4 157.8 496.4 145.8 508.3 145.8 526ZM854.2 645.8H145.8 854.2Z",
+        "width": 1000
+      },
+      "search": [
+        "bed_fill0_wght400_grad0_opsz48"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+*,*::before,*::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a,a:visited{
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+header,aside,section,footer,nav,video,figure,figcaption,main,article,div{
+    display: flex;
+    flex-wrap: wrap;
+}
